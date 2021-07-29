@@ -46,8 +46,12 @@ header{
 .contact-form{
     background-color: #E76F51;
     border-radius: 20px;
+}input, textarea{
+    border-radius: 10px;
+    border: 0;
 }
 
+}
 /* happy client section */
 .cardd img{
  border-radius: 50%;
