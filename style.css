@@ -33,19 +33,22 @@ span{
     margin-bottom: 100px;
 }
 
-/* header  */
+
+/* header section  */
 header{
     background-color: #264653;
 }
-/* Fetured Bikes  */
+/* Fetured Bikes section */
 .bike-img{
     filter: grayscale(100%);
 }
-/* contact */
+/* contact section*/
 .contact-form{
     background-color: #E76F51;
     border-radius: 20px;
 }
+
+/* happy client section */
 .card img{
  border-radius: 50%;
  height: 100px;
