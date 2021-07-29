@@ -1,0 +1,56 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* common styles */
+h1{
+    font-weight: 600;
+}
+h2{
+    font-weight: 600;
+}
+p{
+    font-weight: 300;
+}
+button{
+    width: 150px;
+    height: 45px;
+    color: white;
+    background-color: #E76F51;
+    border-radius: 10px;
+    font-weight: 900;
+    border: 0;
+    margin: 5px;
+}
+img{
+    max-width: 100%;
+}
+span{
+    color: #E76F51;
+    
+}
+.container{
+    margin-bottom: 100px;
+}
+
+/* header  */
+header{
+    background-color: #264653;
+}
+/* Fetured Bikes  */
+.bike-img{
+    filter: grayscale(100%);
+}
+/* contact */
+.contact-form{
+    background-color: #E76F51;
+    border-radius: 20px;
+}
+.card img{
+ border-radius: 50%;
+ height: 100px;
+ width: 100px;
+ margin-left: 35%;
+ margin-top: 15%;
+ 
+}
